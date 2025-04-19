@@ -11,3 +11,7 @@ Laser safety advice: https://www.lasersafetyfacts.com/
 
 ## Resources
 
+https://damow.net/building-a-laser-show/  
+https://bitlasers.com/helios-laser-dac/  
+https://github.com/timredfern/pd_helios  
+https://marcan.st/projects/openlase/  
